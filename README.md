@@ -22,7 +22,7 @@ python Simple_Calculator.py
 To convert this application in to a standalone executable file you can use an application called `auto-py-to-exe`. You can install it by running `pip install auto-py-to-exe`. Ater the module has installed, type in the following: `auto-py-to-exe`. This will open an application which you will need to configure with the following settings:
 
 
-[![Example-v2.png](https://i.postimg.cc/FsMmz7hY/Example-v2.png)](https://postimg.cc/fJf1gWts)
+[![Example-v3.png](https://i.postimg.cc/6Qw87HB4/Example-v3.png)](https://postimg.cc/BjYSkBLJ)
 
 Click `CONVERT .PY TO .EXE` and open the output folder. This should give you a standalone executable file which you can use like any other app on your desktop.
 
