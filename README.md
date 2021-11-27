@@ -4,7 +4,7 @@ A simple calculator made by me, Water_Gazes#9999. Created with the library PyQT5
 
 Requirements: 
 ```
-PyQT5 Version 5.15.6 (Note: This version is not required to run the application but it is the only version I have tested it on. Use earlier or later versions with caution.)
+PyQT5 Version 5.15.6 (Note: This version is not required but it is the only version I have my application on. Use earlier or later versions at your own discretion.)
 ```
 
 You can install PyQT5 by running the following code in to windows command prompt: `pip install PyQT5`
@@ -19,3 +19,5 @@ To convert this application in to a standalone executable file you can use an ap
 [![Exmaple.png](https://i.postimg.cc/L8JR6jdK/Exmaple.png)](https://postimg.cc/mPWKmz28)
 
 Click `CONVERT .PY TO .EXE` and open the output folder. This should give you a standalone executable file which you can use like any other app on your desktop.
+
+If you have any issues, as always create a ticket and I will get back to you as soon as possible!
