@@ -1,6 +1,6 @@
 # Simple Calculator
 
-A simple calculator made by me, Water_Gazes#9999. Created with the library PyQT5 and written in Python. This is my first publicly avaliable project that I have ever made and my first time using GitHub. I apologize if I have done something incorrectly or break something while merging a pull request or updating code.
+A simple calculator made by me, Water_Gazes#9999. Created with the library PyQT5 and written in Python. This is my first publicly avaliable project that I have ever made and my first time using GitHub. I apologize if I have done something incorrectly or break something in the future.
 
 Requirements: 
 ```
