@@ -4,7 +4,7 @@ A simple calculator made by me, Water_Gazes#9999. Created with the library PyQT5
 
 Requirements: 
 ```
-PyQT5 Version 5.15.6 (Note: This version is not required but it is the only version I have my application on. Use earlier or later versions at your own discretion.)
+PyQT5 Version 5.15.6 (Note: This version is not required but it is the only version I have tested my application on. Use earlier or later versions at your own discretion.)
 ```
 
 You can install PyQT5 by running the following code in to windows command prompt: `pip install PyQT5`
