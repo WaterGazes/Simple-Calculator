@@ -2,6 +2,8 @@
 
 A simple calculator made by me, Water_Gazes#9999. Created with the library PyQT5 and written in Python. This is my first publicly avaliable project that I have ever made and my first time using GitHub. I apologize if I have done something incorrectly or break something in the future.
 
+[![Calculater-image.png](https://i.postimg.cc/PJmG8MXN/Calculater-image.png)](https://postimg.cc/4HN2DVhT)
+
 Requirements: 
 ```
 Python 3.9.6 (Note: This version of Python is not required to run the code but it is the only version I have tested it on. Use earlier or later versions at your own discretion.)
