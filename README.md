@@ -15,8 +15,8 @@ You can install PyQT5 by running the following code in to windows command prompt
 
 To run the application you first need to verify that `Simple_Calculator.py` is in the same directory as `Simple Calculator Icon.png`. You would then need to execute the file by writing the following code in to windows command prompt:
 ```
-cd <The directory Simple Calculator.py was installed in>
-python Simple Calculator.py
+cd <The directory Simple_Calculator.py was installed in>
+python Simple_Calculator.py
 ```
 
 To convert this application in to a standalone executable file you can use an application called `auto-py-to-exe`. You can install it by running `pip install auto-py-to-exe`. Ater the module has installed, type in the following: `auto-py-to-exe`. This will open an application which you will need to configure with the following settings:
