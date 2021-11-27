@@ -2658,11 +2658,9 @@ class Ui_MainWindow(object):
 
         if number_or_symbol == "DEL":
             if self.CalculationLabel.text()[-2:] == "√(":
-                print("A")
                 self.CalculationLabel.setText(self.CalculationLabel.text()[:-2])
 
             else:
-                print("C")
                 self.CalculationLabel.setText(self.CalculationLabel.text()[:-1])
 
     def actual_calculation(self, number_or_symbol: str):
