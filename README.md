@@ -9,7 +9,7 @@ PyQT5 Version 5.15.6 (Note: This version is not required but it is the only vers
 
 You can install PyQT5 by running the following code in to windows command prompt: `pip install PyQT5`
 
-To run the application you first need to verify you have Python Version 3.9.6 installed on your computer(Note: This version of Python is not required to run the code but it is the only version I have tested it on. Use earlier or later versions at your own discretion.). Then run `Simple_Calculator.py` while ensuring that `Simple Calculator Icon.png` is in the same directory as the Python File. You can run the file by executing the following code in to windows command prompt: 
+To run the application you first need to verify you have Python Version 3.9.6 installed on your computer (Note: This version of Python is not required to run the code but it is the only version I have tested it on. Use earlier or later versions at your own discretion.). Then run `Simple_Calculator.py` while ensuring that `Simple Calculator Icon.png` is in the same directory as the Python File. You can run the file by executing the following code in to windows command prompt: 
 ```
 cd <The directory `Simple Calculator.py was installed in>
 python Simple Calculator.py
